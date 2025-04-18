@@ -1,2 +1,3 @@
-# discord
-just tutorial of discord bot
+# discord bot
+wtie in the terminal the following:
+pip install discord.py
